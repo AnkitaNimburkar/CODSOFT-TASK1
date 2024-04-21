@@ -5,9 +5,9 @@ The game generates a random number within a specified range and prompts the user
 How to Play:
 
 Clone or download the repository.
-Compile and run the Java program.
-Follow the prompts to guess the number.
-Keep playing until you guess the correct number or reach the attempt limit.
-Optionally, play multiple rounds to improve your score.
-Enjoy the game!
+1.Compile and run the Java program.
+2.Follow the prompts to guess the number.
+3.Keep playing until you guess the correct number or reach the attempt limit.
+4.Optionally, play multiple rounds to improve your score.
+5.Enjoy the game!
 
