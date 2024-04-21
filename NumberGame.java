@@ -23,12 +23,12 @@ public class NumberGame {
                 System.out.println("You have " + remainingAttempts + " attempts left.");
                 System.out.print("Enter your guess: ");
                 int userGuess = scanner.nextInt();
-                scanner.nextLine(); // Consume newline character
+                scanner.nextLine(); 
 
                 if (userGuess == randomNumber) {
                     System.out.println("Congratulations! You guessed the correct number.");
                     guessedCorrectly = true;
-                    score += remainingAttempts; // Increase score based on remaining attempts
+                    score += remainingAttempts; 
                 } else if (userGuess < randomNumber) {
                     System.out.println("Too low! Try again.");
                 } else {
