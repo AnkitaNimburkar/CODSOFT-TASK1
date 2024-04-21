@@ -4,11 +4,12 @@ The game generates a random number within a specified range and prompts the user
 
 How to Play:
 
-Clone or download the repository.
-1.Compile and run the Java program.
+1.Clone or download the repository.
 
-2.Follow the prompts to guess the number.
+2.Compile and run the Java program.
 
-3.Keep playing until you guess the correct number or reach the attempt limit.
+3.Follow the prompts to guess the number.
 
-4.Optionally, play multiple rounds to improve your score. Enjoy the game!
+4.Keep playing until you guess the correct number or reach the attempt limit.
+
+5.Optionally, play multiple rounds to improve your score. Enjoy the game!
